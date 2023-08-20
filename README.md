@@ -1,16 +1,7 @@
-# lab-flask
+Fire Weather Index Prediction Model
+ML model using python , flask and Jupyter notebook and deployment in AWS.
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
+Home Page
 
+Prediction Page
 
-To run flask application 
-
-```
-python app.py
-```
-
-
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
